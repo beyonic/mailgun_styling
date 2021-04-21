@@ -85,12 +85,12 @@ table {
     padding: 20px;
 }
 
-.data-label {
-    font-weight: bold;
-}
-
 .data-label-main {
   margin: 20px;
+}
+
+.data-label {
+    font-weight: bold;
 }
 
 /*** Start Social Media ***/
