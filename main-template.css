@@ -48,25 +48,25 @@ table {
 }
 
 .social-media {
-    text-align:center;
+    text-align: center;
 }
 
 .info-btn {
-    box-sizing: border-box; 
-    font-size: 14px; 
-    color: #FFF; 
-    text-decoration: none; 
-    line-height: 2em; 
-    font-weight: bold; 
-    text-align: center; 
-    cursor: pointer; 
-    display: inline-block; 
-    border-radius: 5px; 
-    text-transform: capitalize; 
-    background-color: #348eda; 
-    margin: 0; 
-    border-color: #348eda; 
-    border-style: solid; 
+    box-sizing: border-box;
+    font-size: 14px;
+    color: #FFF;
+    text-decoration: none;
+    line-height: 2em;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 5px;
+    text-transform: capitalize;
+    background-color: #348eda;
+    margin: 0;
+    border-color: #348eda;
+    border-style: solid;
     border-width: 10px 20px;
     width: 100%;
     background-color: #fe8a0c !important;
@@ -107,7 +107,7 @@ table {
 }
 
 .data-label-main {
-  margin: 20px;
+    margin: 20px;
 }
 
 .data-label {
@@ -115,10 +115,11 @@ table {
     margin-left: 20px;
 }
 
+
 /*** Start Social Media ***/
 
 .fa {
-    padding: 5px !important; 
+    padding: 5px !important;
     font-size: 10px !important;
     width: 10px !important;
     text-align: center !important;
@@ -178,7 +179,9 @@ table {
 
 /*** End Social Media ***/
 
+
 /** Start Responsivenes ***/
+
 @media only screen and (max-width: 640px) {
     body {
         background-color: #f6f6f6;
@@ -229,5 +232,6 @@ table {
         width: 100% !important;
     }
 }
+
 
 /** End Responsivenes ***/
