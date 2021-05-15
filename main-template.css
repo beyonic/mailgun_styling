@@ -146,7 +146,7 @@ table {
 /* Facebook */
 
 .fa-facebook {
-    border: 1px solid var(--gray) !important;
+    border: 2px solid var(--gray) !important;
     color: var(--gray);
 }
 
@@ -154,7 +154,7 @@ table {
 /* Twitter */
 
 .fa-twitter {
-    border: 1px solid var(--gray) !important;
+    border: 2px solid var(--gray) !important;
     color: var(--gray);
 }
 
@@ -162,7 +162,7 @@ table {
 /* Linked-In */
 
 .fa-linkedin {
-    border: 1px solid var(--gray) !important;
+    border: 2px solid var(--gray) !important;
     color: var(--gray);
 }
 
@@ -170,7 +170,7 @@ table {
 /* Medium */
 
 .fa-medium {
-    border: 1px solid var(--gray) !important;
+    border: 2px solid var(--gray) !important;
     color: var(--gray);
 }
 
