@@ -143,7 +143,8 @@ table {
 /* Facebook */
 
 .fa-facebook {
-    background: #999999;
+    border: 3px #999999 solid !important;
+    background: #99999900;
     color: #999999;
 }
 
@@ -151,7 +152,8 @@ table {
 /* Twitter */
 
 .fa-twitter {
-    background: #999999;
+    border: 3px #999999 solid !important;
+    background: #99999900;
     color: #999999;
 }
 
@@ -159,7 +161,8 @@ table {
 /* Linked-In */
 
 .fa-linkedin {
-    background: #999999;
+    border: 3px #999999 solid !important;
+    background: #99999900;
     color: #999999;
 }
 
@@ -167,7 +170,8 @@ table {
 /* Medium */
 
 .fa-medium {
-    background: #999999;
+    border: 3px #999999 solid !important;
+    background: #99999900;
     color: #999999;
 }
 
