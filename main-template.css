@@ -1,3 +1,7 @@
+:root {
+    --gray: #999999;
+}
+
 img {
     max-width: 100%;
 }
@@ -142,32 +146,32 @@ table {
 /* Facebook */
 
 .fa-facebook {
-    border: 3px #999999 solid !important;
-    color: #999999;
+    border: 1px solid var(--gray) !important;
+    color: var(--gray);
 }
 
 
 /* Twitter */
 
 .fa-twitter {
-    border: 3px #999999 solid !important;
-    color: #999999;
+    border: 1px solid var(--gray) !important;
+    color: var(--gray);
 }
 
 
 /* Linked-In */
 
 .fa-linkedin {
-    border: 3px #999999 solid !important;
-    color: #999999;
+    border: 1px solid var(--gray) !important;
+    color: var(--gray);
 }
 
 
 /* Medium */
 
 .fa-medium {
-    border: 3px #999999 solid !important;
-    color: #999999;
+    border: 1px solid var(--gray) !important;
+    color: var(--gray);
 }
 
 .social-link {
