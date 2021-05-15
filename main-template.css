@@ -142,38 +142,34 @@ table {
 
 /* Facebook */
 
-
-/* .fa-facebook {
-    background: #3B5998;
-    color: white;
-} */
+.fa-facebook {
+    background: #999999;
+    color: #999999;
+}
 
 
 /* Twitter */
 
-
-/* .fa-twitter {
-    background: #55ACEE;
-    color: white;
-} */
+.fa-twitter {
+    background: #999999;
+    color: #999999;
+}
 
 
 /* Linked-In */
 
-
-/* .fa-linkedin {
-    background: #0e76a8;
-    color: white;
-} */
+.fa-linkedin {
+    background: #999999;
+    color: #999999;
+}
 
 
 /* Medium */
 
-
-/* .fa-medium {
-    background: #000;
-    color: white;
-} */
+.fa-medium {
+    background: #999999;
+    color: #999999;
+}
 
 .social-link {
     color: #999;
