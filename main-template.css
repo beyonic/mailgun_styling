@@ -124,7 +124,6 @@ table {
     width: 10px !important;
     text-align: center !important;
     text-decoration: none !important;
-    border: 3px !important;
     border-radius: 20px !important;
     margin: 0 0 0 2px !important;
 }
@@ -144,7 +143,6 @@ table {
 
 .fa-facebook {
     border: 3px #999999 solid !important;
-    background: #99999900;
     color: #999999;
 }
 
@@ -153,7 +151,6 @@ table {
 
 .fa-twitter {
     border: 3px #999999 solid !important;
-    background: #99999900;
     color: #999999;
 }
 
@@ -162,7 +159,6 @@ table {
 
 .fa-linkedin {
     border: 3px #999999 solid !important;
-    background: #99999900;
     color: #999999;
 }
 
@@ -171,7 +167,6 @@ table {
 
 .fa-medium {
     border: 3px #999999 solid !important;
-    background: #99999900;
     color: #999999;
 }
 
