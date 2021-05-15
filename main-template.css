@@ -124,7 +124,8 @@ table {
     width: 10px !important;
     text-align: center !important;
     text-decoration: none !important;
-    border-radius: 5px !important;
+    border: 3px !important;
+    border-radius: 20px !important;
     margin: 0 0 0 2px !important;
 }
 
@@ -141,34 +142,38 @@ table {
 
 /* Facebook */
 
-.fa-facebook {
+
+/* .fa-facebook {
     background: #3B5998;
     color: white;
-}
+} */
 
 
 /* Twitter */
 
-.fa-twitter {
+
+/* .fa-twitter {
     background: #55ACEE;
     color: white;
-}
+} */
 
 
 /* Linked-In */
 
-.fa-linkedin {
+
+/* .fa-linkedin {
     background: #0e76a8;
     color: white;
-}
+} */
 
 
 /* Medium */
 
-.fa-medium {
+
+/* .fa-medium {
     background: #000;
     color: white;
-}
+} */
 
 .social-link {
     color: #999;
