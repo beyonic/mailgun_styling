@@ -179,6 +179,7 @@ hr {
 }
 
 .content-wrap {
+  backgroung-color: #FFF !important;;
   box-sizing: border-box;
   vertical-align: top;
   margin: 0;
@@ -346,6 +347,7 @@ hr {
     padding: 0 !important;
   }
   .content-wrap {
+    background-color: #FFF !important;; 
     box-sizing: border-box;
     vertical-align: top;
     margin: 0;
